@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natsudaS
-- 👀 I’m interested in smart home solutions and front-end development.
+- 👀 I’m interested in smart home solutions and software development.
 - 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me: sommerfeldria15@gmail.com
 
