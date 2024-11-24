@@ -5,7 +5,7 @@
 
 ------
 
-- Check out my final HTML/CSS/JS project from SheCodes Basic course here: [FrozenLove](https://shecodesprojectsbyria.netlify.app/)
+Check out my final HTML/CSS/JS project from SheCodes Basic course here: [FrozenLove](https://shecodesprojectsbyria.netlify.app/)
 
 <!---
 natsudaS/natsudaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
