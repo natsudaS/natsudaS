@@ -16,7 +16,8 @@ into different languages and technologies. Currently mostly working on my skills
 
 ------
 
-Check out my final HTML/CSS/JS project from SheCodes Basic course here: [FrozenLove](https://shecodesprojectsbyria.netlify.app/)
+Check out my final HTML/CSS/JS project from SheCodes Basic course here: 
+![FrozenLove](https://shecodesprojectsbyria.netlify.app/)
 
 -----
 📫 Reach me via mail: sommerfeldria15@gmail.com
