@@ -17,7 +17,14 @@ into different languages and technologies. Currently mostly working on my skills
 ------
 
 Check out my final HTML/CSS/JS project from SheCodes Basic course here: 
-[![Visit my first project](https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522)](https://shecodesprojectsbyria.netlify.app/)
+<a href="https://shecodesprojectsbyria.netlify.app/" target="_blank">
+  <img
+    src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
+    alt="Visit my first SheCodes Project"
+    width="300"
+    height="180"
+    >
+</a>
 
 -----
 📫 Reach me via mail: sommerfeldria15@gmail.com
