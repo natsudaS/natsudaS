@@ -35,7 +35,7 @@ Currently mostly working on my skills in Java.
 </a>
 
 -----
-📫 Reach me via mail: sommerfeldria15@gmail.com
+📫 Reach me via mail: sommerfeldria15@gmail.com or via [LinkedIn](https://www.linkedin.com/in/ria-sommerfeld-970b52209/).
 
 <!---
 natsudaS/natsudaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
