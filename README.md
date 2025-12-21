@@ -1,4 +1,4 @@
-👋 Hi, I’m @natsudaS. My name's Ria.
+# 👋 Hi, I’m @natsudaS. My name's Ria.
 
 ## About
 I got introduced to programming back in school, but decided to try another route first.
@@ -12,7 +12,7 @@ I enjoy Frontend Developement as well as Backend, enjoyed working with data in m
 into different languages and technologies. Currently mostly working on my skills in Java.
 
 ## Skills
-![HTML](https://img.shields.io/badge/HTML-blue) CSS | JS | Java | Python | Bootstrap
+![HTML](https://img.shields.io/badge/HTML-red) ![CSS](https://img.shields.io/badge/CSS-lightblue) ![JS](https://img.shields.io/badge/HTML-yellow) ![Java](https://img.shields.io/badge/Java-black) ![Python](https://img.shields.io/badge/Python-green) ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
 
 ------
 
