@@ -16,7 +16,8 @@ into different languages and technologies. Currently mostly working on my skills
 
 ------
 
-Check out my final HTML/CSS/JS project from SheCodes Basic course here: 
+Check out my final HTML/CSS/JS project from SheCodes Basic course here:
+
 <a href="https://shecodesprojectsbyria.netlify.app/" target="_blank">
   <img
     src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
