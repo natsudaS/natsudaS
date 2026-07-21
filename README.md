@@ -2,12 +2,12 @@
 
 ## About
 I got introduced to programming back in school, but decided to try another route first. Now 
-I'm back to programming and gradually learning while studying business informatics.
+I'm back and just finished my bachelor's studying business information systems.
 It was in my first year of uni where I was introduced to Java and OOP. Other uni projects involved 
 learning about Databases and SQL, learning about web development (Python/Flask), Android development (Java),
 Process Design, some Docker and basic ML algorithms.
-I love myself some riddles and even though bug hunting is frustrating - it is also highly rewarding. 
-Looking forward to tackle new challenges to learn from!
+I love myself some riddles and even though bug hunting is frustrating - it is also highly rewarding to me. 
+Looking forward to tackle new challenges and learn from them!
 
 ## Interests
 I'm interested in a lot of aspects around development and haven't made up my mind yet where to specialize. That's why 
@@ -35,7 +35,7 @@ Currently mostly working on my skills in Java.
 </a>
 
 -----
-📫 Reach me via mail: sommerfeldria15@gmail.com or via [LinkedIn](https://www.linkedin.com/in/ria-sommerfeld-970b52209/).
+📫 Reach me via mail: sommerfeldria@proton.me or via [LinkedIn](https://www.linkedin.com/in/ria-sommerfeld-970b52209/).
 
 <!---
 natsudaS/natsudaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
