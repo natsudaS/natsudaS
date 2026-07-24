@@ -23,8 +23,7 @@ Currently mostly working on my skills in Java.
 
 ------
 
-## Check out my SheCodes final projects
-Basic: HTML, CSS, JS, Bootstrap here:
+## Check out my SheCodes final projects!
 
 <table>
   <tr>
