@@ -30,7 +30,7 @@ Basic: HTML, CSS, JS, Bootstrap here:
   <th>Basic (HTML, CSS, JS, Bootstrap)</th>
   <th>Plus (HTML, CSS, JS, Bootstrap, Hosting, API)</th>
   <tr>
-    <a href="https://shecodesprojectsbyria.netlify.app/" target="_blank">
+    <a href="[https://shecodesprojectsbyria.netlify.app/](https://scbasicbyria.netlify.app/)" target="_blank">
       <img
         src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
         alt="Visit my first SheCodes Project"
@@ -40,10 +40,10 @@ Basic: HTML, CSS, JS, Bootstrap here:
     </a>
   </tr>
   <tr>
-    <a href="https://shecodesprojectsbyria.netlify.app/" target="_blank">
+    <a href="[https://shecodesprojectsbyria.netlify.app/](https://scplusbyria.netlify.app/)" target="_blank">
       <img
         src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
-        alt="Visit my first SheCodes Project"
+        alt="Visit my second SheCodes Project"
         width="300"
         height="180"
         >
