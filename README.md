@@ -23,16 +23,33 @@ Currently mostly working on my skills in Java.
 
 ------
 
-## Check out my SheCodes Basic final project (HTML, CSS, JS, Bootstrap) here:
+## Check out my SheCodes final projects
+Basic: HTML, CSS, JS, Bootstrap here:
 
-<a href="https://shecodesprojectsbyria.netlify.app/" target="_blank">
-  <img
-    src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
-    alt="Visit my first SheCodes Project"
-    width="300"
-    height="180"
-    >
-</a>
+<table>
+  <th>Basic (HTML, CSS, JS, Bootstrap)</th>
+  <th>Plus (HTML, CSS, JS, Bootstrap, Hosting, API)</th>
+  <tr>
+    <a href="https://shecodesprojectsbyria.netlify.app/" target="_blank">
+      <img
+        src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
+        alt="Visit my first SheCodes Project"
+        width="300"
+        height="180"
+        >
+    </a>
+  </tr>
+  <tr>
+    <a href="https://shecodesprojectsbyria.netlify.app/" target="_blank">
+      <img
+        src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
+        alt="Visit my first SheCodes Project"
+        width="300"
+        height="180"
+        >
+    </a>
+  </tr>
+</table>
 
 -----
 📫 Reach me via mail: sommerfeldria@proton.me or via [LinkedIn](https://www.linkedin.com/in/ria-sommerfeld-970b52209/).
