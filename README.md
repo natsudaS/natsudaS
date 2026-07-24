@@ -27,27 +27,29 @@ Currently mostly working on my skills in Java.
 Basic: HTML, CSS, JS, Bootstrap here:
 
 <table>
-  <th>Basic (HTML, CSS, JS, Bootstrap)</th>
-  <th>Plus (HTML, CSS, JS, Bootstrap, Hosting, API)</th>
   <tr>
-    <a href="[https://shecodesprojectsbyria.netlify.app/](https://scbasicbyria.netlify.app/)" target="_blank">
-      <img
-        src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
-        alt="Visit my first SheCodes Project"
-        width="300"
-        height="180"
-        >
-    </a>
+    <th>Basic (HTML, CSS, JS, Bootstrap)</th>
+    <th>Plus (HTML, CSS, JS, Bootstrap, Hosting, API)</th>
   </tr>
   <tr>
-    <a href="[https://shecodesprojectsbyria.netlify.app/](https://scplusbyria.netlify.app/)" target="_blank">
-      <img
-        src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
-        alt="Visit my second SheCodes Project"
-        width="300"
-        height="180"
+    <td>
+      <a href="[https://shecodesprojectsbyria.netlify.app/](https://scbasicbyria.netlify.app/)" target="_blank">
+        <img
+          src="https://github.com/user-attachments/assets/b63c7a44-fd96-4afd-b36c-a2655f216522"
+          alt="Visit my first SheCodes Project"
+          height="180"
+          >
+      </a>
+    </td>
+    <td>
+      <a href="[https://shecodesprojectsbyria.netlify.app/](https://scplusbyria.netlify.app/)" target="_blank">
+       <img 
+         height="180" 
+         alt="Visit my second SheCodes Project" 
+         src="https://github.com/user-attachments/assets/48a70d14-b608-43ef-8172-0c5ae6f86984"
         >
-    </a>
+      </a>
+    </td>
   </tr>
 </table>
 
