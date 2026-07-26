@@ -52,6 +52,11 @@ Currently mostly working on my skills in Java.
   </tr>
 </table>
 
+## Starting my journey to become a Social Dev
+Am just exploring by starting out with those two tutorial repos:
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+- [Roshanjossey/code-contributions](https://github.com/roshanjossey/code-contributions)
+  
 -----
 📫 Reach me via mail: sommerfeldria@proton.me or via [LinkedIn](https://www.linkedin.com/in/ria-sommerfeld-970b52209/).
 
