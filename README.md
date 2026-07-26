@@ -52,6 +52,8 @@ Currently mostly working on my skills in Java.
   </tr>
 </table>
 
+------
+
 ## Starting my journey to become a Social Dev
 Am just exploring by starting out with those two tutorial repos:
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
